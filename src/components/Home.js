@@ -15,13 +15,13 @@ return (
                  fellow web wanderers! I'm DIVI, your resident frontend sorcerer, waving my coding wand to conjure up delightful digital experiences. With a cup of coffee in one hand and a keyboard in the other, I'm here to sprinkle some laughter and magic into the world of web development!
             </div>
             
-            <a href="/OORKALADEVI.M(Resume).pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
+            <a href="/OORKALADEVI.M.pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
                 Download My CV
             </a>
         </div>
         <div className="avatar">
             <div className="card">
-                <img src="/picture.jpeg" alt="" />
+                <img src="/img2.png" alt="" />
                 <div className="info">
                     <div>Frontend Developer</div>
                     <div>Chennai</div>

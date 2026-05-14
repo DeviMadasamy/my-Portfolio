@@ -8,7 +8,7 @@ const [listContacts] = useState([
     value: '+91 9962023240'
   },{
     title: 'Email',
-    value: 'devi.m222001@gmail.com'
+    value: 'oorkaladevi.m@gmail.com'
   },{
     title: 'Instagram',
     value: 'divi_s_handy_mandy'

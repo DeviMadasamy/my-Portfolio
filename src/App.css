@@ -55,7 +55,7 @@ header{
     z-index: 100;
     backdrop-filter: blur(10px);
     & img{
-        width: 50px;
+        width: 80px;
     }
     & .logo, nav{
         display: flex;
@@ -140,13 +140,13 @@ section.home{
             flex-direction: column;
             width: min(100%, 400px);
             box-shadow: 0 150px 150px #e945e333;
-            transition: 0.5s;
+            transition: 0.10s;
             &:hover{
-                box-shadow: 0 150px 150px #e945e355;
+                box-shadow: 0 150px 150px #c976c655;
             }
             & img{
                 width: 100%;
-                height: min(50vh, 700px);
+                height: min(60vh, 700px);
                 object-fit: cover;
                 object-position: top;
                 clip-path: polygon(81% 0, 100% 18%, 100% 100%, 0 100%, 0 0);
