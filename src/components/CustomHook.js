@@ -28,7 +28,7 @@ useEffect(() => {
         }
           window.addEventListener('scroll', handlScroll);
     }
-}, [activeTab])
+}, [activeTab,divs, scrollTab])
 }
 
 export default CustomHook
